@@ -1,0 +1,51 @@
+Frontend:
+
+    Frameworki:
+        - 1. React.js
+        - 2. Vue.js
+        - 3. Ember.js
+        - 4. Angular
+        - 5. Svelte
+        6. Backbone.js
+        7. Preact
+        8. Meteor.js (może być używany także jako framework backendowy)
+        9. Aurelia
+        10. Alpine.js
+
+    Biblioteki:
+        - 1. jQuery
+        - 2. Lodash
+        - 3. Axios
+        - 4. Moment.js
+        - 5. Chart.js
+        6. D3.js
+        7. Three.js
+        8. Underscore.js
+        9. Rellax.js
+        10. GreenSock Animation Platform (GSAP)
+
+Backend:
+
+    Frameworki:
+        - 1. Express.js
+        - 2. Koa.js
+        - 3. Hapi.js
+        - 4. Sails.js
+        - 5. NestJS
+        6. Fastify
+        7. LoopBack
+        8. AdonisJS
+        9. Feathers.js
+        10. Meteor.js (może być używany także jako framework backendowy)
+
+    Biblioteki:
+        - 1. Mongoose
+        - 2. Sequelize
+        - 3. Socket.io
+        - 4. Node-fetch
+        - 5. Passport.js
+        6. jsonwebtoken
+        7. Bcrypt
+        8. Winston
+        9. Nodemailer
+        10. pdfkit 
